@@ -14,9 +14,7 @@ For Untrusted instead of Low integrity:
 
 No installer, Go runtime, Visual C++ redistributable, AppContainer profile, or
 administrator rights are required to run the Windows x64 binaries. Both pre-built EXEs are
-signed with the same self-signed test certificate as the original application.
-The certificate is included for inspection and is not automatically trusted.
-
+signed with the same self-signed test certificate.
 ## Launcher
 
 The normal-user Go launcher:
