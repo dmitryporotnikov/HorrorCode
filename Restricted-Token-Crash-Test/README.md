@@ -1,6 +1,6 @@
 # Restricted-token Windows crash test
 
-Extract the ZIP and keep both EXEs together. Run from PowerShell:
+Keep both EXEs together. Run from PowerShell:
 
 ```powershell
 .\wer-restricted-launcher.exe
